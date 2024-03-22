@@ -1,0 +1,41 @@
+p.querida {
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+pre.texto {
+    font-size: 12pt;
+    font-family:  'Times New Roman', Times, serif;
+    color: black;
+}
+
+p.resto {
+    font-size: 12pt;
+    font-family:  'Times New Roman', Times, serif;
+    color: black;
+}
+
+div.bottom {
+    font-size: 12pt;
+    font-family:  'Times New Roman', Times, serif;
+    color: black;
+    float: right;
+}
+body.padrao {
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+h1.oficina {
+    text-align: center; 
+    font-size: 30pt; 
+    font-family:'Times New Roman', Times, serif; 
+    color: darkred;
+}
+
+#papai_noel {
+    font-size: 14pt;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
