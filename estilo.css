@@ -22,10 +22,8 @@ div.bottom {
     float: right;
 }
 body.padrao {
-    margin-top: 200px;
-    margin-bottom: 200px;
-    margin-left: 700px;
-    margin-right: 700px;
+    width: 600px;
+    margin: auto;
 }
 h1.oficina {
     text-align: center; 
